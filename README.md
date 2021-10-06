@@ -9,14 +9,28 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 <!-- section: Table of contents -->
 <!-- This shows what sections are covered in this document and gives the reader the possibility to jump to a specific section. It is highly recommended to use a TOC. -->
 <!-- This has two items called first and second respectively. Remove them and use your own -->
-1. [Marketing](#marketing)
-1. [Software Development](#software-development)
-1. [Related work](#related-work)
-1. [Contributing](#contributing)
-1. [License](#license)
+- [Awesome AI Tools](#awesome-ai-tools)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Marketing](#marketing)
+    - [Copy Writing](#copy-writing)
+    - [Lead Generation](#lead-generation)
+  - [Software Development](#software-development)
+    - [Code Assistant](#code-assistant)
+    - [Code checking](#code-checking)
+    - [Code completion](#code-completion)
+    - [Searching](#searching)
+  - [Related work](#related-work)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 <!-- section: Content -->
 <!-- This the actual content. -->
+
+## Overview
+- [Machine Learning, AI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf) - Overview of tools for machine learning, AI and Data science
+
+**[back to top](#table-of-contents)**
 
 ## Marketing
 ### Copy Writing
