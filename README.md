@@ -36,6 +36,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Copy Writing
 - [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
 - [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
+- [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
 
 ### Lead Generation
 - [Seamless](https://www.seamless.ai/) - Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
