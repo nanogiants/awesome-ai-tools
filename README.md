@@ -47,6 +47,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [CodeNet](https://github.com/IBM/Project_CodeNet) - AI system by IBM that supports the software development process by offering intelligent code search, summarization, completion and code-to-code translation
 - [Codex](https://openai.com/blog/openai-codex/) - AI system by Open AI that tranlsates natural language to code
 - [Github Copilot](https://copilot.github.com/) - AI system by Github built on top of Codes that translates natural language to code. Can be integrated in many IDEs (such as VS Code)
+- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 
 ### Code checking
 - [Gitguardian](https://www.gitguardian.com/) - Tool that monitors public and private repositories for leaked API keys, database credentials, certificates and other security issues
