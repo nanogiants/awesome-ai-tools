@@ -2,35 +2,35 @@
   <div id="header" align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239703832-7aae0dd8-467d-4d97-8844-d3767d7d0521.png" width="150" width="80"/>
 </div>
- <h2 2 align="center">
-    Awesome AI Werkzeugen
+ <h2 align="center">
+    Awesome KI Werkzeugen
     <br />
-    </h4>
-     <h2 2 align="center">
-       Eine zusammengestellte Liste von AI-gesteuerten Eine zusammengestellte Liste von KI-gesteuerten Werkzeugen
+    </h2>
+     <h4 align="center">
+       Eine zusammengestellte Liste von KI-gesteuerten Eine zusammengestellte Liste von KI-gesteuerten Werkzeugen
     <br />
     </h4>
 
-<table>
-    <caption>Lesen Sie diese Dokumentation in den folgenden Sprachen.</caption>
+<table align="center">
+    <caption>Lesen Sie diese Dokumentation in den folgenden Sprachen</caption>
     <tbody>
         <tr>
-            <td><a href="https://allcontributors.org/docs/id/overview">Englisch</a></td>
-            <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
+            <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.md">Englisch</a></td>
+            <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md">Deutsch</a></td>
         </tr>
     </tbody>
 </table>
 
 ## Application Description
 
-AI ist ein treibender Faktor im geschäftlichen Kontext und wird voraussichtlich in Zukunft weiter wachsen. Wir möchten eine Liste von Werkzeugen erstellen, die für ein Unternehmen nützlich sind (z.B. Softwareentwicklung, Marketing, Vertrieb, Personalwesen, Datenanalyse, ...). Die Reihenfolge der Themen sowie die Reihenfolge der Aufzählungspunkte dient keinem bestimmten Zweck und soll keine Hierarchie einführen.
+KI ist ein treibender Faktor im geschäftlichen Kontext und wird voraussichtlich in Zukunft weiter wachsen. Wir möchten eine Liste von Werkzeugen erstellen, die für ein Unternehmen nützlich sind (z.B. Softwareentwicklung, Marketing, Vertrieb, Personalwesen, Datenanalyse, ...). Die Reihenfolge der Themen sowie die Reihenfolge der Aufzählungspunkte dient keinem bestimmten Zweck und soll keine Hierarchie einführen.
 
 Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen Dank für deinen großartigen Beitrag! 😊
 
 ## Table of Contents
 
 <details>
-<summary>Awesome-AI-Werkzeugen</summary>
+<summary>Awesome-KI-Werkzeugen</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -54,21 +54,21 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 ## Überblick
 
-- [Machine Learning, AI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf): Ein Überblick über Tools für maschinelles Lernen, künstliche Intelligenz und Datenanalyse.
+- [Machine Learning, KI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf): Ein Überblick über Tools für maschinelles Lernen, künstliche Intelligenz und Datenanalyse.
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 ## Marketing
 
 - [Insta|text](https://instatext.io/): Verbessert Ihren Schreibstil, um professioneller, lässiger oder was auch immer Sie erreichen möchten, zu klingen.
 
-- [Rytr](https://rytr.me/): AI-Schreibassistent, der dabei hilft, hochwertige Inhalte zu erstellen.
+- [Rytr](https://rytr.me/): KI-Schreibassistent, der dabei hilft, hochwertige Inhalte zu erstellen.
 
 ### Lead-Generierung
 
 - [Seamless](https://www.seamless.ai/): Verbinden Sie sich direkt mit Ihren idealen Kunden, damit Sie Ihren Vertriebsprozess optimieren, die Verkaufsdauer verkürzen und mehr Geschäftsabschlüsse tätigen können.
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 
 ## Software-Entwicklung
@@ -77,9 +77,9 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 - [CodeNet](https://github.com/IBM/Project_CodeNet): Codesuche, Zusammenfassung, Vervollständigung und Code-zu-Code-Übersetzung anbietet.
 
-- [Codex](https://openai.com/blog/openai-codex/): AI-System von OpenAI, das natürliche Sprache in Code übersetzt.
+- [Codex](https://openai.com/blog/openai-codex/): KI-System von OpenAI, das natürliche Sprache in Code übersetzt.
 
-- [Github Copilot](https://copilot.github.com/): AI-System von Github, das auf Codes aufbaut und natürliche Sprache in Code übersetzt. Kann in viele IDEs integriert werden (wie z.B. VS Code).
+- [Github Copilot](https://copilot.github.com/): KI-System von Github, das auf Codes aufbaut und natürliche Sprache in Code übersetzt. Kann in viele IDEs integriert werden (wie z.B. VS Code).
 
 ### Code-Überprüfung
 
@@ -95,18 +95,18 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 - [Sourcegraph](https://sourcegraph.com/):  KI-basierte Suchmaschine für Repositories. Ermöglicht nicht nur strukturierte, sondern auch kontextbezogene Suche, die von NLP bereitgestellt wird.
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 ## Verwandte Arbeiten
 
 [Bitte fügen Sie hier Inhalte hinzu.]
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 
 ## FAQ
 
 [Bitte fügen Sie hier Inhalte hinzu.]
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 ## Beitrag zu awesome-ai-tools
 

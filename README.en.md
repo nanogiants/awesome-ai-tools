@@ -2,21 +2,21 @@
   <div id="header" align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239703832-7aae0dd8-467d-4d97-8844-d3767d7d0521.png" width="150" width="80"/>
 </div>
- <h2 2 align="center">
+ <h2 align="center">
     Awesome AI Tools
     <br />
-    </h4>
-     <h2 2 align="center">
+    </h2>
+     <h4 align="center">
     A curated list of AI-powered tools
     <br />
     </h4>
 
-  <table>
+  <table align="center">
     <caption>Read this documentation in the following languages</caption>
     <tbody>
         <tr>
-            <td><a href="https://allcontributors.org/docs/id/overview">English</a></td>
-            <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
+            <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.md">English</a></td>
+            <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md">Deutsch</a></td>
         </tr>
     </tbody>
 </table>
