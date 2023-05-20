@@ -15,7 +15,7 @@ git checkout -b sandramsc/feature-navbar
 - Halten Sie die Beschreibungen kurz und einfach, aber beschreibend für Ihre Änderungen.
 - Beginnen Sie die Beschreibung mit einem Großbuchstaben und beenden Sie sie mit einem Punkt.
 - Überprüfen Sie Ihre Rechtschreibung und Grammatik.
-[Grammarly] (https://www.grammarly.com/) ist ein nettes, kostenloses Tool für diese Aufgabe und hat Browser-Erweiterungen.
+[Grammarly](https://www.grammarly.com/) ist ein nettes, kostenloses Tool für diese Aufgabe und hat Browser-Erweiterungen.
 - Pull Requests sollten einen sinnvollen Titel haben.
 
 ### Aktualisieren Sie Ihren Pull Request (PR):

@@ -12,7 +12,6 @@
     </h4>
 
 <table align="center">
-    <caption>Lesen Sie diese Dokumentation in den folgenden Sprachen</caption>
     <tbody>
         <tr>
             <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.md">Englisch</a></td>
@@ -99,19 +98,17 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 ## Verwandte Arbeiten
 
-[Bitte fügen Sie hier Inhalte hinzu.]
-[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)[Bitte fügen Sie hier Inhalte hinzu.]
 
 
 ## FAQ
 
-[Bitte fügen Sie hier Inhalte hinzu.]
-[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)[Bitte fügen Sie hier Inhalte hinzu.]
 
 ## Beitrag zu awesome-ai-tools
 
 Wenn Sie an diesem Projekt arbeiten, **schauen Sie sich bitte die
-[CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
+[CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/CONTRIBUTING.de.md)**.
 
 ## Die Betreuer ⚖️
 <table>

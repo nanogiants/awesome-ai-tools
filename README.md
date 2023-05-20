@@ -12,7 +12,6 @@
     </h4>
 
   <table align="center">
-    <caption>Read this documentation in the following languages</caption>
     <tbody>
         <tr>
             <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.md">English</a></td>
@@ -101,14 +100,12 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ## Related work
 
-[ADD CONTENT HERE]
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)[ADD CONTENT HERE]
 
 
 ## FAQ
 
-[ADD CONTENT HERE]
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)[ADD CONTENT HERE]
 
 ## Contributing to awesome-ai-tools
 
