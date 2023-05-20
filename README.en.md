@@ -11,6 +11,16 @@
     <br />
     </h4>
 
+  <table>
+    <caption>Read this documentation in the following languages</caption>
+    <tbody>
+        <tr>
+            <td><a href="https://allcontributors.org/docs/id/overview">English</a></td>
+            <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Application Description
 
 AI is a driving factor in the business context and is likely to grow in the future. We want to compile a list of tools that are useful for a business (e.g. Software Development, marketing, sales, HR, data analytics, ...). The order of topics, as well as the order of bullet points, serves no purpose and is not intended to introduce a hierarchy.
@@ -36,8 +46,8 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Related work](#related-work)
 - [FAQ](#faq)
 - [Contributing](#contributing)
+- [Maintainers](#maintainers)
 - [Contributors](#contributors)
-- [Notes](#notes)
 - [License](#license)
 
 </details>
@@ -50,7 +60,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ## Marketing
 
-AI writing assistant the helps creating high-quality content
+### Copy Writing
 
 - [Insta|text](https://instatext.io/): Improves your writing style to sound more professional, casual or whatever you want to achieve.
 
@@ -81,11 +91,11 @@ AI writing assistant the helps creating high-quality content
 
 - [Codota](https://www.codota.com/): Adds better code completion to various IDEs (e.g. VS Code, Sublime, IntelliJ). Currently focused on Java and Kotlin.
 
-- [Kite](https://www.kite.com/): AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP.
+- [Kite](https://www.kite.com/): Adds better code completion to various IDEs (e.g. VS Code, Sublime, Jupyter)
 
 ### Searching
 
-- [Sourcegraph](https://sourcegraph.com/): Adds better code completion to various IDEs (e.g. VS Code, Sublime, IntelliJ). Currently focused on Java and Kotlin.
+- [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
 
 [🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
 
