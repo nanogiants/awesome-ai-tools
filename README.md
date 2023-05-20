@@ -25,7 +25,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-- [Marketing](#screenshots)
+- [Marketing](#marketing)
     - [Copy Writing](#copy-writing)
     - [Lead Generation](#lead-generation)
 - [Software Development](#software-development)
@@ -34,7 +34,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
     - [Code completion](#code-completion)
     - [Searching](#searching)
 - [Related work](#related-work)
-- [How to use the app](#how-to-use-the-app)
+- [FAQ](#faq)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 - [Notes](#notes)
@@ -97,10 +97,23 @@ AI writing assistant the helps creating high-quality content
 
 ## FAQ
 
+[ADD CONTENT HERE]
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+
 ## Contributing to awesome-ai-tools
 
 If you're working on this project **please check out the
 [CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
+
+## Maintainers ⚖️
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dasheck0"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239706944-3bdd7b46-6b1e-4165-a035-08fa563d0de8.png" width="100px;" alt="Stefan Neidig"/><br /><sub><b>Stefan Neidig</b></sub></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Contributors ✨
 
@@ -111,29 +124,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.kevincunningham.co.uk"><img src="https://avatars3.githubusercontent.com/u/8320213?v=4?s=100" width="100px;" alt="Kevin Cunningham"/><br /><sub><b>Kevin Cunningham</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=doingandlearning" title="Tests">⚠️</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=doingandlearning" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ianjones.us/"><img src="https://avatars2.githubusercontent.com/u/4407263?v=4?s=100" width="100px;" alt="Ian Jones"/><br /><sub><b>Ian Jones</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=theianjones" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dayhaysoos"><img src="https://avatars3.githubusercontent.com/u/1852675?v=4?s=100" width="100px;" alt="Nick DeJesus"/><br /><sub><b>Nick DeJesus</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=dayhaysoos" title="Tests">⚠️</a> <a href="#blog-dayhaysoos" title="Blogposts">📝</a> <a href="#business-dayhaysoos" title="Business development">💼</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/issues?q=author%3Adayhaysoos" title="Bug reports">🐛</a> <a href="#data-dayhaysoos" title="Data">🔣</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=dayhaysoos" title="Documentation">📖</a> <a href="#fundingFinding-dayhaysoos" title="Funding Finding">🔍</a> <a href="#infra-dayhaysoos" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-dayhaysoos" title="Project Management">📆</a> <a href="#question-dayhaysoos" title="Answering Questions">💬</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/pulls?q=is%3Apr+reviewed-by%3Adayhaysoos" title="Reviewed Pull Requests">👀</a> <a href="#security-dayhaysoos" title="Security">🛡️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://shodipoayomide.com"><img src="https://avatars2.githubusercontent.com/u/20538832?v=4?s=100" width="100px;" alt="Shodipo Ayomide"/><br /><sub><b>Shodipo Ayomide</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=Developerayo" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://appbureauet.dk"><img src="https://avatars1.githubusercontent.com/u/167574?v=4?s=100" width="100px;" alt="Anders Bech Mellson"/><br /><sub><b>Anders Bech Mellson</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=mellson" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://thorweb.dev"><img src="https://avatars0.githubusercontent.com/u/23213994?v=4?s=100" width="100px;" alt="Thor 雷神"/><br /><sub><b>Thor 雷神</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=thorsten-stripe" title="Documentation">📖</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=thorsten-stripe" title="Code">💻</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=thorsten-stripe" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ryan.warner.codes"><img src="https://avatars2.githubusercontent.com/u/1595979?v=4?s=100" width="100px;" alt="Ryan Warner"/><br /><sub><b>Ryan Warner</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=RyanWarner" title="Documentation">📖</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://horacioh.com"><img src="https://avatars3.githubusercontent.com/u/725120?v=4?s=100" width="100px;" alt="Horacio Herrera"/><br /><sub><b>Horacio Herrera</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=horacioh" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://bdougie.live"><img src="https://avatars2.githubusercontent.com/u/5713670?v=4?s=100" width="100px;" alt="Brian Douglas"/><br /><sub><b>Brian Douglas</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=bdougie" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://bdesigned.netlify.com/"><img src="https://avatars2.githubusercontent.com/u/45889730?v=4?s=100" width="100px;" alt="Brittney Postma"/><br /><sub><b>Brittney Postma</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=brittneypostma" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://prince.dev"><img src="https://avatars1.githubusercontent.com/u/8431042?v=4?s=100" width="100px;" alt="Prince Wilson"/><br /><sub><b>Prince Wilson</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=maxcell" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.erichowey.dev/"><img src="https://avatars.githubusercontent.com/u/204841?v=4?s=100" width="100px;" alt="Eric Howey"/><br /><sub><b>Eric Howey</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=ehowey" title="Documentation">📖</a> <a href="#plugin-ehowey" title="Plugin/utility libraries">🔌</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hideokamoto-stripe"><img src="https://avatars.githubusercontent.com/u/95597878?v=4?s=100" width="100px;" alt="Hidetaka Okamoto"/><br /><sub><b>Hidetaka Okamoto</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=hideokamoto-stripe" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andria-dev"><img src="https://avatars.githubusercontent.com/u/19195374?v=4?s=100" width="100px;" alt="Andria Brown"/><br /><sub><b>Andria Brown</b></sub></a><br /><a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=andria-dev" title="Tests">⚠️</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=andria-dev" title="Code">💻</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/commits?author=andria-dev" title="Documentation">📖</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/issues?q=author%3Aandria-dev" title="Bug reports">🐛</a> <a href="#example-andria-dev" title="Examples">💡</a> <a href="#infra-andria-dev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-andria-dev" title="Maintenance">🚧</a> <a href="#ideas-andria-dev" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-andria-dev" title="Answering Questions">💬</a> <a href="https://github.com/dayhaysoos/use-shopping-cart/pulls?q=is%3Apr+reviewed-by%3Aandria-dev" title="Reviewed Pull Requests">👀</a></td>
+    <!-- contributor-1-start -->
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sandramsc"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239707280-a1fe09fb-f3c4-4727-b588-1a433a9e6574.png" width="100px;" alt="Sandra Ashipala"/><br /><sub><b>Sandra Ashipala</b></sub></a><br /><a href="https://github.com/nanogiants/awesome-ai-tools/commits?author=sandramsc" title="Doc">📖</a></td>
+      <!-- contributor-1-end -->
+      <!-- contributor-2-start -->
+      <!-- contributor-2-end -->
     </tr>
   </tbody>
 </table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
