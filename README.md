@@ -14,7 +14,7 @@
   <table align="center">
     <tbody>
         <tr>
-            <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.md">English</a></td>
+            <td>English</td>
             <td><a href="https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md">Deutsch</a></td>
         </tr>
     </tbody>
