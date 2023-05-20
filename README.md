@@ -1,6 +1,6 @@
 <!-- PROJECT TITLE -->
   <div id="header" align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239703832-7aae0dd8-467d-4d97-8844-d3767d7d0521.png" width="550" width="250"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239703832-7aae0dd8-467d-4d97-8844-d3767d7d0521.png" width="150" width="80"/>
 </div>
  <h2 2 align="center">
     Awesome AI Tools
@@ -46,7 +46,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 - [Machine Learning, AI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf): An overview of tools for machine learning, AI and Data science.
 
-[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
 
 ## Marketing
 
@@ -60,7 +60,7 @@ AI writing assistant the helps creating high-quality content
 
 - [Seamless](https://www.seamless.ai/): Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
 
-[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
 
 
 ## Software Development
@@ -87,28 +87,20 @@ AI writing assistant the helps creating high-quality content
 
 - [Sourcegraph](https://sourcegraph.com/): Adds better code completion to various IDEs (e.g. VS Code, Sublime, IntelliJ). Currently focused on Java and Kotlin.
 
-[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
 
 ## Related work
 
 [ADD CONTENT HERE]
-[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
-
-## Contributors
-
-| Name            | Link                                   |
-| --------------- | -------------------------------------- |
-| nanogiants | https://github |
-| Sandra Ashipala | https://github.com/sandramsc |
-| contributor_name | social_link |
+[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
 
 
 ## FAQ
 
 ## Contributing to awesome-ai-tools
 
-If you're working on this project **please check out
-[the CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/awesome-ai-tools/CONTRIBUTING.md)**.
+If you're working on this project **please check out the
+[CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
 
 ## Contributors ✨
 

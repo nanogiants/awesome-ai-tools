@@ -2,9 +2,9 @@
 
 ### Contributing
 
-You can help improve this document by making it more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date.
+You can help improve this repository by making it more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date.
 
-To do so, make changes to the source files (i.e. this very document OR/AND README.md). Then open a pull request to apply your changes to the master branch.
+To do so, make changes to the source files (i.e. this very document & README.md). Then open a pull request to apply your changes to the master branch.
 
 ### Please ensure your Pull Request adheres to the following guidelines:
 
