@@ -79,6 +79,8 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 - [Codex](https://openai.com/blog/openai-codex/): KI-System von OpenAI, das natürliche Sprache in Code übersetzt.
 
 - [Github Copilot](https://copilot.github.com/): KI-System von Github, das auf Codes aufbaut und natürliche Sprache in Code übersetzt. Kann in viele IDEs integriert werden (wie z.B. VS Code).
+- 
+- [Fellow](https://github.com/ManuelZierl/fellow) - Fellow ist ein Open-Source-Kommandozeilen-KI-Assistent. Im Gegensatz zu den meisten KI-Tools, die sich darauf beschränken, Code vorzuschlagen, geht Fellow einen Schritt weiter: Er führt Aufgaben in Ihrem Namen aus. Er begründet Schritt für Schritt, wählt Befehle aus einem Plugin-System aus und bearbeitet Dateien, generiert Inhalte oder schreibt Tests - autonom.
 
 ### Code-Überprüfung
 
