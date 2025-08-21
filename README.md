@@ -83,6 +83,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Code checking
 
 - [Gitguardian](https://www.gitguardian.com/): A tool that monitors public and private repositories for leaked API keys, database credentials, certificates and other security issues.
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 ### Code completion
 
