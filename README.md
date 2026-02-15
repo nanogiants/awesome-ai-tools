@@ -143,3 +143,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## License
 
 [![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/nanogiants/awesome-ai-tools/blob/master/LICENSE)
+
+- [ToolArks](https://toolarks.com) - Smart, Secure & Private Online Tools. All processing happens 100% locally in your browser.
