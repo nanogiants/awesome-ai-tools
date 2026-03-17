@@ -92,6 +92,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ### Searching
 
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp): MCP server for searching scientific papers with structured experimental data from full-text studies.
 - [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
 
 ### Building AI apps
