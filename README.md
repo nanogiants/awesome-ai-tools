@@ -78,6 +78,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Codex](https://openai.com/blog/openai-codex/) - AI system by Open AI that tranlsates natural language to code
 - [Github Copilot](https://copilot.github.com/) - AI system by Github built on top of Codes that translates natural language to code. Can be integrated in many IDEs (such as VS Code)
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - Browser-side AI coding toolbar for live web app edits with context capture and approved diffs.
 - [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
 
 ### Code checking
