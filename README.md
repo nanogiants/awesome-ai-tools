@@ -63,6 +63,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
 - [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
 - [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered mind mapping tool that converts text, PDFs, videos, audio, images, markdown, CSV, and research into structured visual mind maps.
 
 ### Lead Generation
 
