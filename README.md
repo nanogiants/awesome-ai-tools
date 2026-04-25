@@ -42,6 +42,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
     - [Code checking](#code-checking)
     - [Code completion](#code-completion)
     - [Searching](#searching)
+    - [Data & Analytics](#data--analytics)
 - [Related work](#related-work)
 - [FAQ](#faq)
 - [Contributing](#contributing)
@@ -97,6 +98,9 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+
+### Data & Analytics
+- [AI for Database](https://aifordatabase.com) - Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 
 **[back to top](#table-of-contents)**
 
