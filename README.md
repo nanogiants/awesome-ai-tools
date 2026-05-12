@@ -53,6 +53,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ## Overview
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator and outdoor project planner that turns yard, garden, patio, and outdoor photos into design concepts, planting ideas, and cost-aware project plans.
 - [Machine Learning, AI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf): An overview of tools for machine learning, AI and Data science.
 
 [🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
