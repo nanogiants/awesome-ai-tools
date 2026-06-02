@@ -97,6 +97,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+- [CoderPlan](https://coderplan.ai/) - Unified LLM API gateway with OpenAI-compatible endpoint for building AI apps with Claude, GPT, Gemini, and DeepSeek models.
 
 **[back to top](#table-of-contents)**
 
