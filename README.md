@@ -39,6 +39,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
     - [Lead Generation](#lead-generation)
 - [Software Development](#software-development)
     - [Code Assistant](#code-assistant)
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native x402 MCP server for AI agent trust scoring. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Paid: `get_trust_receipt` via HTTP 402 + USDC on Solana. MCP: `https://intel.twzrd.xyz/mcp`
     - [Code checking](#code-checking)
     - [Code completion](#code-completion)
     - [Searching](#searching)
