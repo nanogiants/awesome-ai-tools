@@ -37,6 +37,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Marketing](#marketing)
     - [Copy Writing](#copy-writing)
     - [Lead Generation](#lead-generation)
+    - [Video Creation](#video-creation)
 - [Software Development](#software-development)
     - [Code Assistant](#code-assistant)
     - [Code checking](#code-checking)
@@ -67,6 +68,10 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Lead Generation
 
 - [Seamless](https://www.seamless.ai/): Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
+
+### Video Creation
+
+- [ImagineClip](https://imagineclip.com?ref=nanogiants-awesome-ai-tools) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 
 [🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
