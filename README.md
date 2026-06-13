@@ -93,6 +93,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Searching
 
 - [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
+- [Remio](https://remio.ai/): Local-first AI memory and knowledge base that indexes files, webpages, recordings, emails, messages, images, and notes for faster semantic retrieval by users and agents.
 
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
