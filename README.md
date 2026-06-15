@@ -97,6 +97,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+- [Xquik](https://docs.xquik.com/api-reference/overview) - X automation platform with REST API, MCP tools, and webhooks.
 
 **[back to top](#table-of-contents)**
 
