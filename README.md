@@ -61,6 +61,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ### Copy Writing
 - [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
 - [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
 
