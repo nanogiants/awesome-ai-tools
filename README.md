@@ -36,6 +36,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Overview](#overview)
 - [Marketing](#marketing)
     - [Copy Writing](#copy-writing)
+    - [Market Research](#market-research)
     - [Lead Generation](#lead-generation)
 - [Software Development](#software-development)
     - [Code Assistant](#code-assistant)
@@ -63,6 +64,10 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
 - [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
 - [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
+
+### Market Research
+
+- [GetAppNiche](https://getappniche.com/) - AI-assisted App Store niche research for indie iOS founders, with revenue estimates, ASO keywords, ads, and reviews.
 
 ### Lead Generation
 
