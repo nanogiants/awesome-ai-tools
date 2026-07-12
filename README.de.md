@@ -96,6 +96,10 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 [🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
+### KI-Anwendungen entwickeln
+
+- [AI Router](https://ai-router.dev/de): Gehosteter OpenAI-kompatibler API-Dienst für Entwickler mit einsehbarer Nutzung. Kein offizieller OpenAI-Dienst.
+
 ## Verwandte Arbeiten
 
 [🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)[Bitte fügen Sie hier Inhalte hinzu.]

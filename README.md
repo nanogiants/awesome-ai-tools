@@ -97,6 +97,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+- [AI Router](https://ai-router.dev) - Hosted OpenAI-compatible API service for developers with usage visibility. Not an official OpenAI service.
 
 **[back to top](#table-of-contents)**
 
