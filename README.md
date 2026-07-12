@@ -95,6 +95,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
 
 ### Building AI apps
+- [DaoXE](https://daoxe.com) - Multi-model multi-protocol AI API gateway for Chat Completions, Responses, and Anthropic Messages.
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
 
