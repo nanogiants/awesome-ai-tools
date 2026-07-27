@@ -31,6 +31,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 <details>
 <summary>Awesome-AI-Tools</summary>
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
