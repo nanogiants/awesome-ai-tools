@@ -42,6 +42,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
     - [Code checking](#code-checking)
     - [Code completion](#code-completion)
     - [Searching](#searching)
+    - [Testing](#testing)
 - [Related work](#related-work)
 - [FAQ](#faq)
 - [Contributing](#contributing)
@@ -93,6 +94,10 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Searching
 
 - [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
+
+### Testing
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile end-to-end regression tests through CLI or MCP, retaining run memory and adapting actions to UI changes.
 
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
