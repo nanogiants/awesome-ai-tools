@@ -67,6 +67,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Lead Generation
 
 - [Seamless](https://www.seamless.ai/): Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
+- [BulkPublish](https://app.bulkpublish.com/docs) - AI-agent social media content creation, adaptation, scheduling, cross-channel publishing, and analytics through API and MCP access.
 
 [🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
