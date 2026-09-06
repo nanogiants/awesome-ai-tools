@@ -80,6 +80,8 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
 
+- [Orkas](https://orkas.ai/?source=gh_nano) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 ### Code checking
 
 - [Gitguardian](https://www.gitguardian.com/): A tool that monitors public and private repositories for leaked API keys, database credentials, certificates and other security issues.
