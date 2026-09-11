@@ -98,7 +98,9 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 
 ## Verwandte Arbeiten
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)[Bitte fügen Sie hier Inhalte hinzu.]
+- [ki-arsenal.de](https://ki-arsenal.de/): Deutschsprachiges Vergleichsportal für KI-Tools mit Tests, Kategorien und direkten Vergleichen (z.B. ChatGPT vs. Claude).
+
+[🔝](https://github.com/sandramsc/awesome-ai-tools/blob/master/README.de.md#table-of-contents)
 
 
 ## FAQ
