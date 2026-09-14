@@ -97,6 +97,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+- [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent ($SGROK) on Bags.fm: 24/7 promo + fee claim/sweep. Trade: https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
 
 **[back to top](#table-of-contents)**
 
