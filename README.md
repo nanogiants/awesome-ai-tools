@@ -102,6 +102,8 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ## Related work
 
+- [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking practical AI products across categories.
+
 [🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
 
