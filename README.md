@@ -97,6 +97,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Building AI apps
 - [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+- [API.market](https://api.market/mcp) - Hosted MCP gateway for AI applications to discover and call APIs, check usage, and manage subscriptions at `https://api.market/api/mcp/gateway`; requires an account and OAuth or an API key, with pricing varying by API.
 
 **[back to top](#table-of-contents)**
 
