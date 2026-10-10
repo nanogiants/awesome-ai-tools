@@ -62,6 +62,7 @@ Wenn du zu dieser Liste beitragen möchtest, schicke einen Pull Request! Vielen 
 - [Insta|text](https://instatext.io/): Verbessert Ihren Schreibstil, um professioneller, lässiger oder was auch immer Sie erreichen möchten, zu klingen.
 
 - [Rytr](https://rytr.me/): KI-Schreibassistent, der dabei hilft, hochwertige Inhalte zu erstellen.
+- [WarmQuant](https://warmquant.com/): Erstellt aus Notizen bearbeitbare englische Entwürfe mit wählbaren Schreibperspektiven, Autoren- und Leserprofilen sowie gespeicherten Entwürfen.
 
 ### Lead-Generierung
 
