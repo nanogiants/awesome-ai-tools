@@ -111,6 +111,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ## Contributing to awesome-ai-tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 If you're working on this project **please check out the
 [CONTRIBUTING.md file](https://github.com/nanogiants/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
 
