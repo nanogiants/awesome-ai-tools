@@ -37,6 +37,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Marketing](#marketing)
     - [Copy Writing](#copy-writing)
     - [Lead Generation](#lead-generation)
+- [Human Resources](#human-resources)
 - [Software Development](#software-development)
     - [Code Assistant](#code-assistant)
     - [Code checking](#code-checking)
@@ -67,6 +68,12 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Lead Generation
 
 - [Seamless](https://www.seamless.ai/): Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
+
+[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
+
+## Human Resources
+
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 
 [🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
