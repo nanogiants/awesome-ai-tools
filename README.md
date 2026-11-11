@@ -42,6 +42,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
     - [Code checking](#code-checking)
     - [Code completion](#code-completion)
     - [Searching](#searching)
+- [Productivity and Collaboration](#productivity-and-collaboration)
 - [Related work](#related-work)
 - [FAQ](#faq)
 - [Contributing](#contributing)
@@ -99,6 +100,10 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
 
 **[back to top](#table-of-contents)**
+
+## Productivity and Collaboration
+
+- [Novastart](https://novastart.com/) - Infinite canvas whiteboard workspace for apps, shared canvases, and AI agents.
 
 ## Related work
 
